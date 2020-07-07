@@ -5,5 +5,5 @@
 所以就有了这个脑图，通过结构梳理，鸟瞰整体，非常希望大家和我一起讨论，如果有关于相关技能有趣的文章和观点，欢迎在issue中留言。
 如果感兴趣，可以点个star关注一下这个仓库的更新。
 
-[前端技能图谱2020](https://github.com/hourong88/Frontend-Datlas/blob/master/images/frontend%20skill%20map.png)
+![前端技能图谱2020](https://github.com/hourong88/Frontend-Datlas/blob/master/images/frontend%20skill%20map.png)
 
