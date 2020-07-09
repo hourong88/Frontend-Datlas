@@ -10,4 +10,5 @@
 另外，下面的图我整理了很久，传上来纠结要不要全图加水印，加了感觉看着很别扭，就没加。希望大家引用的时候，署名来源就可以啦！感谢！
 
 ![前端技能图谱2020](https://github.com/hourong88/Frontend-Datlas/blob/master/images/frontend%20skill%20map.png)
+图片有时候变成不可读破碎状态，[点击这里](https://juejin.im/post/5f067b57f265da22c96704e0)，可以看到完整图谱。
 
