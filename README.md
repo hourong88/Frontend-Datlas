@@ -12,3 +12,4 @@
 ![前端技能图谱2020](https://github.com/hourong88/Frontend-Datlas/blob/master/images/frontend%20skill%20map.png)
 图片有时候变成不可读破碎状态，[点击这里](https://juejin.im/post/5f067b57f265da22c96704e0)，可以看到完整图谱。
 
+1、[初学者React入门概览](https://juejin.im/post/6855517674068574222/)--框架原理/源码--React
