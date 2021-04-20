@@ -28,7 +28,7 @@
 
 公众号：优前程（优秀的前端工程师，优前程，有前程），扫描下方二维码关注，会分享一些思考
 
-！[公众号二维码](https://github.com/hourong88/Frontend-Datlas/blob/master/images/qrcode.jpg)
+![公众号二维码](https://github.com/hourong88/Frontend-Datlas/blob/master/images/qrcode.jpg)
 
 另外上面的思维导图，也有不全面的，大家可以在此基础上贡献，需要xmind源文件的，可以公众号私信我，我都会看的，只是可能忙的时候不能及时回应。
 
