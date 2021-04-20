@@ -50,5 +50,15 @@
 3. [搞懂闭包JavaScript的GC机制](https://www.cnblogs.com/youqiancheng/p/14668158.html)
 4. [js执行过程之上下文对象(Context)](https://www.cnblogs.com/youqiancheng/p/14414981.html)
 5. [搞懂Event Loop](https://www.cnblogs.com/youqiancheng/p/14675856.html)
+6. [宏任务和微任务，同步异步，promis，await执行顺序](https://www.cnblogs.com/youqiancheng/p/14676047.html)
+7. [ES6解构过程添加一个默认值和赋值一个新的值](https://www.cnblogs.com/youqiancheng/p/14661783.html)
+8. [ES6变量声明方法 & 解构赋值](https://www.cnblogs.com/youqiancheng/p/10761901.html)
+9. [ES6函数](https://www.cnblogs.com/youqiancheng/p/10762488.html)
+10. [js 加密、解密算法类库](https://www.cnblogs.com/youqiancheng/p/14659206.html)
+11. [moment日期处理类库](https://www.cnblogs.com/youqiancheng/p/14658640.html)
+12. [js对时间戳的处理 获取时间，昨天，今天，明天，时间不同格式](https://www.cnblogs.com/youqiancheng/p/12073339.html)
+13. [当天时间小案例--时间戳，获取年月日星期时分秒](https://www.cnblogs.com/youqiancheng/p/12073225.html)
+14. [selectTree 改造](https://www.cnblogs.com/youqiancheng/p/11751756.html)
+15. [用JS获取地址栏参数的方法（超级简单)](https://www.cnblogs.com/youqiancheng/p/10102579.html)
 
 <!-- 1、[初学者React入门概览](https://juejin.im/post/6855517674068574222/)--框架原理/源码--React -->
