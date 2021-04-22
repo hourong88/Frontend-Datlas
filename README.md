@@ -107,7 +107,7 @@
 5. [前端脚手架CLI生成模版命令工具（包括，npm包的发布，脚手架的搭建，注意事项，优化等）](https://www.cnblogs.com/youqiancheng/p/14344544.html)
 
 #### 组件化
-1. [前端工程化&&自动化部署&&model抽离])(https://www.cnblogs.com/youqiancheng/p/14662110.html)
+1. [前端工程化&&自动化部署&&model抽离](https://www.cnblogs.com/youqiancheng/p/14662110.html)
 
 #### 模块化
 1. [架构-微服务-中台](https://www.cnblogs.com/youqiancheng/p/14662078.html)
