@@ -38,6 +38,8 @@
 - css部分：增加对CSS预处理器（如SASS、LESS）的介绍
 - css部分：完善flex 和 grid
 - 完善TS笔记
+- 性能优化
+- 添加SSR
 
 ## 瞄一瞄这 :point_down:
 
