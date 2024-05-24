@@ -1,4 +1,4 @@
-<img width="464" alt="image" src="https://github.com/hourong88/Frontend-Datlas/assets/35595174/93c9aa2b-2085-4192-b286-62a6181eeb29">🔥🔥前端技能图谱2024（更新中）
+🔥🔥前端技能图谱2024（更新中）
 ===
 以下是工作中对前端技术图谱的梳理，定期进行优化和迭代。
 
